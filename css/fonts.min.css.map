@@ -1,0 +1,9 @@
+{
+    "version": 3,
+    "mappings": "",
+    "sources": [
+        "../../src/sass/base/fonts.scss"
+    ],
+    "names": [],
+    "file": "fonts.min.css"
+}
